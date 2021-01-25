@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shopping_Redux/static/css/main.c08eddf2.chunk.css",
+    "main.js": "/Shopping_Redux/static/js/main.5354caf3.chunk.js",
+    "main.js.map": "/Shopping_Redux/static/js/main.5354caf3.chunk.js.map",
+    "runtime-main.js": "/Shopping_Redux/static/js/runtime-main.db4e5d9f.js",
+    "runtime-main.js.map": "/Shopping_Redux/static/js/runtime-main.db4e5d9f.js.map",
+    "static/js/2.f271f1a4.chunk.js": "/Shopping_Redux/static/js/2.f271f1a4.chunk.js",
+    "static/js/2.f271f1a4.chunk.js.map": "/Shopping_Redux/static/js/2.f271f1a4.chunk.js.map",
+    "static/js/3.b6319946.chunk.js": "/Shopping_Redux/static/js/3.b6319946.chunk.js",
+    "static/js/3.b6319946.chunk.js.map": "/Shopping_Redux/static/js/3.b6319946.chunk.js.map",
+    "index.html": "/Shopping_Redux/index.html",
+    "static/css/main.c08eddf2.chunk.css.map": "/Shopping_Redux/static/css/main.c08eddf2.chunk.css.map",
+    "static/js/2.f271f1a4.chunk.js.LICENSE.txt": "/Shopping_Redux/static/js/2.f271f1a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4e5d9f.js",
+    "static/js/2.f271f1a4.chunk.js",
+    "static/css/main.c08eddf2.chunk.css",
+    "static/js/main.5354caf3.chunk.js"
+  ]
+}
